@@ -1,7 +1,6 @@
 #!/usr/bin/python
 
-# Python Dokumentation:
-# http://docs.python.org/index.html
+# Python Dokumentation: http://docs.python.org/index.html
 # Exceptions und try/except: http://docs.python.org/reference/executionmodel.html#exceptions
 # Function definition: http://docs.python.org/reference/compound_stmts.html#function-definitions
 
